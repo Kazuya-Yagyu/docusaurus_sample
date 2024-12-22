@@ -13,7 +13,7 @@ const config: Config = {
   // デプロイ後のサイトURL（必須）
   url: "https://docusaurus_sample.github.io",
   // ホスト名の後につくpath（必須）
-  baseUrl: "/",
+  baseUrl: "/docusaurus_sample/",
 
   // Favicon
   favicon: "img/favicon.ico",
