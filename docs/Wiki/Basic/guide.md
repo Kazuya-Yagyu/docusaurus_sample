@@ -22,7 +22,7 @@ npm run start
 
 - `docusaurus.config.ts`でサイト全体の設定を行います。
   - `docusaurus.config.ts`の詳細は[こちら](https://docusaurus.io/docs/api/docusaurus-config)
-  - このサイトの設定はこちら（細かくメモ書きしています。）
+  - このサイトの設定は[こちら](https://github.com/Kazuya-Yagyu/docusaurus_sample/blob/main/docusaurus.config.ts)（細かくメモ書きしています。）
 
 ---
 

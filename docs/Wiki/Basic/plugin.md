@@ -25,12 +25,12 @@ package.json 例
     "@mdx-js/react": "^3.0.0",
     "@types/node": "^22.7.3",
     "clsx": "^2.0.0",
-    "docusaurus-plugin-openapi-docs": "^4.0.1",
-    "docusaurus-theme-openapi-docs": "^4.0.1",
+    "docusaurus-plugin-openapi-docs": "4.0.1",
+    "docusaurus-theme-openapi-docs": "4.0.1",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "redocusaurus": "^2.1.1"
+    "redocusaurus": "2.1.1"
   },
 ```
 
