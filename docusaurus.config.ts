@@ -43,9 +43,9 @@ const config: Config = {
   // デプロイするブランチ名。（Github Pageを使用してdeployする際に必須）
   deploymentBranch: "gh-pages",
   // サーバーのホスト名（Github Pageを使用してdeployする際に必須）
-  githubHost: "github.com",
+  // githubHost: "github.com",
   // サーバーのポート番号（Github Pageを使用してdeployする際に必須）
-  githubPort: "22",
+  // githubPort: "22",
   // タイトルタグの区切り文字（デフォルトで'/'）
   titleDelimiter: "/",
   // サイトが読み込めない場合バナーを表示するかどうか（デフォルトでtrue）
